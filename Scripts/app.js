@@ -16,7 +16,6 @@
     function Start()
     {
         console.log("%cApp Started...", "color:blue; font-size:20px");
-
         
     }
 
